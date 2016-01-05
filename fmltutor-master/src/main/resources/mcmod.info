@@ -1,0 +1,17 @@
+[
+{
+  "modid": "fmltutor",
+  "name": "FML Tutor",
+  "description": "A Minecraft 1.8 Forge Mod Loader Tutorial by ustc_zzzz.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/ustc-zzzz/fmltutor/wiki",
+  "updateUrl": "https://github.com/ustc-zzzz/fmltutor/tags",
+  "authorList": ["ustc_zzzz"],
+  "credits": "Notch, Cpw, etc.",
+  "logoFile": "",
+  "screenshots": [],
+  "requiredMods": [ "Forge", "customnpcs" ],
+  "dependencies": []
+}
+]

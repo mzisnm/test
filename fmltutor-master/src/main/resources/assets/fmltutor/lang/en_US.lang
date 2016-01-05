@@ -1,0 +1,12 @@
+item.golden_egg.name=Golden Egg
+item.redstone_pickaxe.name=Redstone Pickaxe
+item.redstone_apple.name=Redstone Apple
+
+item.redstone_helmet.name=Redstone Helmet
+item.redstone_chestplate.name=Redstone Chestplate
+item.redstone_leggings.name=Redstone Leggings
+item.redstone_boots.name=Redstone Boots
+
+tile.grass_block.name=Grass Block
+
+itemGroup.tabFMLTutor=FML Tutor

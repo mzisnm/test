@@ -1,0 +1,12 @@
+item.golden_egg.name=金蛋
+item.redstone_pickaxe.name=红石镐
+item.redstone_apple.name=红石苹果
+
+item.redstone_helmet.name=红石头盔
+item.redstone_chestplate.name=红石胸甲
+item.redstone_leggings.name=红石护腿
+item.redstone_boots.name=红石靴子
+
+tile.grass_block.name=草块
+
+itemGroup.tabFMLTutor=FML教程
